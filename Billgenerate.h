@@ -1,3 +1,4 @@
+@codebino
 #ifndef BILLGENERATE_H
 #define BILLGENERATE_H
 struct date{
