@@ -32,7 +32,7 @@ int main()
 	
 	while(term!=0)
 	{
-	printf("\n*****************************************************************************************");
+	printf("\n****************************************************************************************");
 	printf("\n\t1.Display Bills by date \n\t2.Display by all name"
 	"\n\t3.Display the bill on selected date \n\t4.Display the Bill by Person\n\t5.Display the Bill by time Interval \n\t6.Display Bill of all Days\n\t7.Display Bill of item and price\n\t8.Display Bill of all item \n\t9.Display Bill of total cost for time interval  \n\t 0 to exit \n");
 	scanf("%d",&input);
